@@ -1,28 +1,36 @@
+Sure! Here’s your README translated fully into English:
+
+---
+
 # Florence-2 Image Analysis 🖼
 
-Este projeto foi desenvolvido como parte de um teste técnico. Ele utiliza o modelo Florence-2 da Microsoft para descrever imagens automaticamente, integrando com a API da OpenAI para complementar a análise.
+This project was developed as part of a technical test. It uses Microsoft’s Florence-2 model to automatically describe images, integrating with the OpenAI API to complement the analysis.
 
-## 🔧 Funcionalidades
+## 🔧 Features
 
-- 📂 Upload de imagens para análise.
-- 🤖 Extração de descrições utilizando o modelo Florence-2.
-- 🧠 Uso da API da OpenAI para gerar análises complementares.
-- 📜 Geração de relatórios com as informações processadas.
-- 🌐 Interface simples para upload e visualização dos resultados.
+* 📂 Image upload for analysis.
+* 🤖 Extraction of descriptions using the Florence-2 model.
+* 🧠 Use of the OpenAI API to generate complementary analyses.
+* 📜 Generation of reports with the processed information.
+* 🌐 Simple interface for uploading and viewing results.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
-- Python 3.x
-- FastAPI
-- OpenAI API
-- Microsoft Florence-2
-- HTML/CSS (para a interface básica)
-- Uvicorn (servidor ASGI)
+* Python 3.x
+* FastAPI
+* OpenAI API
+* Microsoft Florence-2
+* HTML/CSS (for the basic interface)
+* Uvicorn (ASGI server)
 
-## ⚙ Como Executar Localmente
+## ⚙ How to Run Locally
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/seu-usuario/florence2-image-analysis.git
+   git clone https://github.com/your-username/florence2-image-analysis.git
    cd florence2-image-analysis
+   ```
+
+---
+
