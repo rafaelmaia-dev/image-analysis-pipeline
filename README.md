@@ -26,6 +26,15 @@ This project was developed as part of a technical test. It uses Microsoft’s Fl
    ```bash
    git clone https://github.com/your-username/florence2-image-analysis.git
    cd florence2-image-analysis
+
+   ## Contents
+- [About](#about)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Output Example](#output-example)
+- [License](#license)
+
    ```
 
 ---
