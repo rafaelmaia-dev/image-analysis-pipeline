@@ -1,7 +1,3 @@
-
-
----
-
 # Florence-2 Image Analysis 🖼
 
 This project was developed as part of a technical test. It uses Microsoft’s Florence-2 model to automatically describe images, integrating with the OpenAI API to complement the analysis.
