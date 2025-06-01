@@ -1,33 +1,28 @@
-# Florence-2 Image Analysis
+# Florence-2 Image Analysis 🖼
 
-Este projeto realiza a análise e submissão de imagens usando a API Florence-2 como parte de um teste técnico.
+Este projeto foi desenvolvido como parte de um teste técnico. Ele utiliza o modelo Florence-2 da Microsoft para descrever imagens automaticamente, integrando com a API da OpenAI para complementar a análise.
 
-## Funcionalidades
+## 🔧 Funcionalidades
 
-- Codificação de imagens em base64
-- Envio de imagens para a API Florence-2 da Microsoft
-- Submissão de resultados processados a um endpoint de avaliação
-- Uso de variáveis de ambiente para proteger tokens de acesso
-- [Adicione outras funcionalidades relevantes]
+- 📂 Upload de imagens para análise.
+- 🤖 Extração de descrições utilizando o modelo Florence-2.
+- 🧠 Uso da API da OpenAI para gerar análises complementares.
+- 📜 Geração de relatórios com as informações processadas.
+- 🌐 Interface simples para upload e visualização dos resultados.
 
-## Tecnologias
+## 🚀 Tecnologias Utilizadas
 
 - Python 3.x
-- Biblioteca Requests (para chamadas HTTP)
-- Python-dotenv (para gerenciamento de variáveis de ambiente)
-- API Florence-2 (Microsoft)
+- FastAPI
+- OpenAI API
+- Microsoft Florence-2
+- HTML/CSS (para a interface básica)
+- Uvicorn (servidor ASGI)
 
-## Pré-requisitos
-
-- Python 3.8 ou superior instalado
-- Conta na Microsoft Azure com acesso à API Florence-2
-- [Quaisquer outros requisitos específicos]
-
-## Como Usar
-
-### Instalação
+## ⚙ Como Executar Localmente
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/rafaelmaia-dev/florence2-image-analysis.git
-cd florence2-image-analysis
+
+   ```bash
+   git clone https://github.com/seu-usuario/florence2-image-analysis.git
+   cd florence2-image-analysis
