@@ -83,7 +83,7 @@ def main():
     print(" INÍCIO DO PROCESSO ".center(50, "="))
     print("=" * 50)
 
-    image_path = "scraped_image.jpg"
+    image_path = "../images/scraped_image.jpg"
 
     analysis = analyze_image(image_path)
     if not analysis:
